@@ -1,4 +1,4 @@
-
+中文相关介绍：https://zhuanlan.zhihu.com/p/53376293
 # Telegraf
 
 ![tiger](assets/TelegrafTiger.png "tiger")
